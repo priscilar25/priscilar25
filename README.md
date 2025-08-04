@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Oi, eu sou a Priscila
 
-<!--
-**priscilar25/priscilar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonada por dados e pelo aprendizado constante!  
+Meu foco é transformar dados em insights para apoiar decisões e impulsionar resultados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Pós-Graduanda em Ciência de Dados
+- 💡 Curiosa, proativa e sempre em busca de novos desafios
+- 🤝 Aberta a colaborações, projetos e troca de conhecimentos
+
+---
+
+## 💼 Tecnologias & Ferramentas:
+
+- **Python** para análise exploratória, limpeza de dados e automações  
+- **SQL** para consultas eficientes em bancos de dados relacionais  
+- **Estatística descritiva e inferencial** aplicada à ciência de dados  
+- **Visualização de dados** com **Power BI** e bibliotecas como *Matplotlib* e *Seaborn*  
+- **Machine Learning** em aplicações como classificação e regressão  
+- **Modelagem de dados** e interpretação de métricas para suporte à decisão
+
+---
+
+## 📚 Atualmente estudando
+
+- Algoritmos de Machine Learning supervisionados e não supervisionados
+- Storytelling com dados e apresentação de resultados
+- Boas práticas em análise e engenharia de dados
+
+---
