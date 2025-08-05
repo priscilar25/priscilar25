@@ -7,7 +7,7 @@ Meu foco é transformar dados em insights para apoiar decisões e impulsionar re
 
 ## 🚀 Sobre mim
 
-- 🎓 Pós-Graduanda em Ciência de Dados
+- 🎓 Engenheira de Telecomunicações e Pós-Graduanda em Ciência de Dados
 - 💡 Curiosa, proativa e sempre em busca de novos desafios
 - 🤝 Aberta a colaborações, projetos e troca de conhecimentos
 
