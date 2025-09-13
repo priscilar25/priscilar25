@@ -28,6 +28,6 @@ Meu foco é transformar dados em insights para apoiar decisões e impulsionar re
 
 - Algoritmos de Machine Learning supervisionados e não supervisionados
 - Storytelling com dados e apresentação de resultados
-- Boas práticas em análise e engenharia de dados
+- Boas práticas em análise, engenharia de dados e ciência de dados
 
 ---
